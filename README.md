@@ -1,5 +1,7 @@
 Hi there! 👋 I'm a postdoc at the Swiss Federal Institute of Aquatic Science and Technology (Eawag), working on wastewater surveillance for infectious diseases. My research is focused on amplicon-based sequencing of pathogens from wastewater. 
 
+Previously, I did my PhD at the Public Health Service of Amsterdam, where I mainly worked on epidemiology and antimicrobial resistance in Neisseria gonorrhoeae.
+
 <!--
 **jolindadekorne/jolindadekorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

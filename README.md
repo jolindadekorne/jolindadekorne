@@ -1,4 +1,4 @@
-Hi there! 👋 I'm a PhD student at the Public Health Laboratory of Amsterdam (GGD Amsterdam), working on genomics of *Neisseria gonorrhoeae*. My projects are focused on antimicrobial resistance, epidemiology and population genomics. 
+Hi there! 👋 I'm a postdoc at the Swiss Federal Institute of Aquatic Science and Technology (Eawag), working on wastewater surveillance for infectious diseases. My research is focused on amplicon-based sequencing of pathogens from wastewater. 
 
 <!--
 **jolindadekorne/jolindadekorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
